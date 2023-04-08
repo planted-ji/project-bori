@@ -1,5 +1,5 @@
 # project-bori
-CSS를 이용한 나만의 캐릭터 제작
+CSS를 이용한 나만의 캐릭터 제작 (https://planted-ji.github.io/project-bori/)
 
 
 ## 캐릭터
